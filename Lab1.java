@@ -1,4 +1,3 @@
-# Comp-Sci-Unit-2-Lab-1
 import java.util.Scanner;
 /*Julian Jordan
  * Unit 2 Lab 1
